@@ -10,7 +10,7 @@ MANPREFIX = $(PREFIX)/share/man
 X11INC = /usr/local/include
 X11LIB = /usr/local/lib
 
-PKG_CONFIG = pkg-config
+PKG_CONFIG = pkgconf
 
 # includes and libs
 INCS = -I$(X11INC) \
